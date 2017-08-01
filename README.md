@@ -1,7 +1,11 @@
 #Demo Project
 ########################
 
+<<<<<<< HEAD
 #causing isssue 
+=======
+#this is bound to cause troble
+>>>>>>> very-bad
 
 #rrtttt
 ##
